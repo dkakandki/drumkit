@@ -1,6 +1,6 @@
 body{
 
-    background-color: teal;
+    background-color: pink;
     text-align: center;
 }
 
@@ -8,13 +8,13 @@ h1 {
 
     font-size: 5rem;
     font-family: ui-sans-serif;
-    color: brown;
+    color: silver;
 }
 
 .drum {
 
     background-color: #fff;
-    border: 10px solid grey;
+    border: 10px magenta;
     color: silver;
     text-align: center;
     margin: 10px;
